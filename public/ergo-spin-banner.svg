@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+  <title id="title">SmartKhadi ErgoSpin</title>
+  <desc id="desc">Preserving tradition. Empowering artisans.</desc>
+  <defs>
+    <linearGradient id="banner" x1="0" x2="1">
+      <stop offset="0" stop-color="#f0dfbd"/>
+      <stop offset=".34" stop-color="#b99a68"/>
+      <stop offset=".48" stop-color="#174f3b"/>
+      <stop offset="1" stop-color="#092f27"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop stop-color="#0b382d" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#0b382d" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#0b382d"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="1.8"/></filter>
+  </defs>
+  <rect width="1200" height="140" rx="12" fill="url(#banner)"/>
+  <rect x="360" width="840" height="140" fill="url(#fade)"/>
+  <g opacity=".28" fill="none" stroke="#bfa774" stroke-width="1">
+    <path d="M560 124c95-95 145-95 240 0s145 95 240 0 145-95 240 0"/>
+    <path d="M560 115c95-95 145-95 240 0s145 95 240 0 145-95 240 0"/>
+    <path d="M560 106c95-95 145-95 240 0s145 95 240 0 145-95 240 0"/>
+    <path d="M700 124c95-95 145-95 240 0s145 95 240 0"/>
+  </g>
+  <g transform="translate(92 80)" fill="none" stroke="#70461f" stroke-linecap="round">
+    <circle r="43" stroke-width="7"/>
+    <circle r="9" fill="#8c5a27" stroke-width="4"/>
+    <g stroke-width="5">
+      <path d="M0-9V-53M9 0h44M0 9v44M-9 0h-44M6-6l37-37M6 6l37 37M-6 6l-37 37M-6-6l-37-37"/>
+    </g>
+  </g>
+  <path d="M115 94c56-2 91-13 135-34 19-9 39-10 59 0 21 11 34 26 55 30" fill="none" stroke="#855326" stroke-width="7" opacity=".9"/>
+  <g fill="#f7f0df">
+    <text x="485" y="56" font-family="Georgia, serif" font-size="25">SmartKhadi - ErgoSpin</text>
+    <text x="486" y="82" font-family="Arial, sans-serif" font-size="14" opacity=".9">Preserving Tradition. Empowering Artisans.</text>
+  </g>
+  <g transform="translate(440 52)" fill="none" stroke="#e7c66f" stroke-width="2">
+    <circle r="17"/><path d="M0-14v28M-13-7l26 14M-13 7l26-14"/>
+  </g>
+  <rect x="888" y="103" width="263" height="25" rx="12" fill="#28634e" opacity=".72"/>
+  <text x="907" y="120" fill="#f7f0df" font-family="Arial, sans-serif" font-size="11">Live Monitoring  •  Smart Analytics  •  Better Tomorrow</text>
+</svg>
